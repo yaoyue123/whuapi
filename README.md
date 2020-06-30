@@ -1,6 +1,8 @@
 # 新版武汉大学教务系统API
 
 [![](https://img.shields.io/badge/主页-@yaoyue123-orange.svg)](https://github.com/yaoyue123) ![](https://img.shields.io/badge/Version-v0.0.1-blue.svg) ![](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
+
 基于最新版(2020/06)武汉大学教务系统，而制作的Python第三方库，方便他人的二次开发。
 
 ## 目录
